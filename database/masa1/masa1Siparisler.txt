@@ -1,0 +1,17 @@
+Kuymak              =>  5TL
+Menemen             =>  3TL
+Cakalli Menemeni    =>  5TL
+Serpme Kahvalti     =>  8TL
+Samsun Pidesi               =>  8TL
+Tavuk Sis                   =>  5TL
+Kebap                       =>  8TL
+Iskender                    =>  9TL
+Portakalli Pekin Ordegi     => 11TL
+Hamsikoy Sutlaci    =>  6TL
+Sutlac              =>  3TL
+Kazandibi           =>  3TL
+Kunefe              =>  5TL
+Su          =>  1TL
+Meyve Suyu  =>  3TL
+Kola        =>  5TL
+Ayran       =>  3TL
